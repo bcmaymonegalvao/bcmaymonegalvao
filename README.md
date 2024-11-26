@@ -6,9 +6,9 @@ I am a Data Scientist proficient in:
 - **SQL** (Ansi, MySQL, PostgreSQL, SQLServer);
 - **Excel** (Functions, ETL, Dashboards).
 
-I am passionate about teaching, researching, contributing to and developing solutions on data and Business Inteligence. open-source projects.
+I am passionate about teaching, researching, contributing to and developing solutions on data and Business Inteligence.
 
-My expertise lies in apply Data Science knowledgements to makes life societies better.
+My expertise lies in applying Data Science knowledge to improve people's lives.
 
 <div style="display: inline-block"> 
   <a href="https://www.linkedin.com/in/flsbustamante" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
