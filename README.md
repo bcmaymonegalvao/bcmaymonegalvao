@@ -1,4 +1,4 @@
-# Hey, I'm Bruno César Maymone Galvão aka Bruno Galvão! :wave: :vulcan_salute:
+# Hey, I'm Bruno César Maymone Galvão aka Bruno Galvão!
 
 I am a Data Scientist proficient in:
 - **Python** (specializing in libraries like Scikit-Learn, Seaborn, Pandas and Matplotlib);
